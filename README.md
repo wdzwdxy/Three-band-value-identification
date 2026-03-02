@@ -8,4 +8,4 @@ Attention
 
 3 After previewing in the preview window, decide whether to output the filtered tif files.  
 
-
+4 After installing the required Python packages in the installation file, simply run it.
